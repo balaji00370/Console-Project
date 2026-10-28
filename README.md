@@ -70,7 +70,7 @@ The system uses a MySQL database with tables designed for inventory management:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/kasmya/Inventory-Management-System.git
+git clone https://github.com/balaji00370/Inventory-Management-System.git
 cd Inventory-Management-System
 ```
 
